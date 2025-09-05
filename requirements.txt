@@ -1,4 +1,4 @@
-pip>=25.0
+
 setuptools>=65.5.0
 wheel
 build
