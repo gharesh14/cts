@@ -1,3 +1,7 @@
+pip>=25.0
+setuptools>=65.5.0
+wheel
+build
 bidict==0.23.1
 blinker==1.9.0
 cachetools==5.5.2
