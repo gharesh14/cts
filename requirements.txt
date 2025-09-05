@@ -1,5 +1,5 @@
 
-setuptools>=65.5.0
+
 wheel
 build
 bidict==0.23.1
